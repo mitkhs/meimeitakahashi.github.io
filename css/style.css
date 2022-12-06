@@ -1,0 +1,54 @@
+body, p, h1 {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    transition: all ease 0.4s;
+}
+
+a:hover {
+    opacity: 0.6;
+}
+
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+.box {
+    padding: 40px;
+    display: grid;
+    gap: 40px;
+}
+
+.site-name {
+    font-size: 32px;
+}
+
+.site-menu {
+    display: flex;
+    gap: 20px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.main {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 40px;
+}
+
+.works-item img {
+    width: 100%;
+    height: auto;
+}
+
+.footer {
+    text-align: right;
+}

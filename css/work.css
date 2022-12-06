@@ -1,0 +1,30 @@
+.work-header {
+    display: grid;
+    gap: 24px;
+    max-width: 720px;
+}
+
+.work-title {
+    font-size: 48px;
+}
+
+.work img {
+    width: 100%;
+    height: auto;
+}
+
+.work {
+    display: grid;
+    gap: 64px;
+}
+
+.work-sub-images {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 64px;
+}
+
+.work-body {
+    display: grid;
+    gap: 64px;
+}

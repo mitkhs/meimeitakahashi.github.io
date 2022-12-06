@@ -1,0 +1,8 @@
+.work-sub-images {
+    grid-template-columns: 1fr;
+    gap: 20px;
+}
+
+.work-body {
+    gap: 20px;
+}
