@@ -40,6 +40,11 @@ body {
 
 .main {
     display: grid;
+    gap: 80px;
+}
+
+.series {
+    display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     gap: 40px;
 }
