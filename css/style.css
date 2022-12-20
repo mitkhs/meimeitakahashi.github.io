@@ -57,3 +57,13 @@ body {
 .footer {
     text-align: right;
 }
+
+.about {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+.about img {
+    width: 100%;
+    height: auto;
+}
