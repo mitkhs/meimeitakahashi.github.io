@@ -14,7 +14,7 @@ a:hover {
 }
 
 body {
-    font-family: Helvetica, sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
 }
 
 .box {
@@ -24,7 +24,7 @@ body {
 }
 
 .site-name {
-    font-size: 32px;
+    font-size: 64px;
 }
 
 .site-menu {
@@ -66,4 +66,8 @@ body {
 .about img {
     width: 100%;
     height: auto;
+}
+
+.bold {
+    font-weight: bold;
 }
